@@ -8,8 +8,14 @@ Libraries needed for:
 install the libraries needed for the respective file to run (linux):
 ```bash
 sudo apt update
-sudo apt install libsdl2-dev (c++)
-sudo apt install python3-pygame (python)
+```
+C++
+```bash
+sudo apt install libsdl2-dev
+```
+Python3
+```bash
+sudo apt install python3-pygame
 ```
 
 for c++ run the following commands:
